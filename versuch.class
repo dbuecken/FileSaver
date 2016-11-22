@@ -1,7 +1,0 @@
-public class Versuch {
-    
-    public Versuch() {
-        System.out.println("Funktioniert^^");
-    }
-    
-}
